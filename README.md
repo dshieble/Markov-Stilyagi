@@ -1,4 +1,4 @@
-A project in exploring literary styles by Dan Shiebler, Jiajie Chen and Qiheng Chen. 
+A project in exploring literary styles by Dan Shiebler, Jiajie Chen and Qiheng Chen. An Instructional video that shows how the program works is included. Maven must be installed in order to run this program.
 
 Step 1: Choose an author
 
